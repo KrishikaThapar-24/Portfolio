@@ -1,4 +1,4 @@
-# Krishika Thapar — Developer Portfolio
+# My Portfolio
 
 > *"Krishika builds products that matter."*
 
